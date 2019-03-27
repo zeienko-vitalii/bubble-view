@@ -14,7 +14,7 @@
             android:name="animatedStroke"
             android:fillColor="#FFFFFF"
             android:pathData="M 1,1.5 H 50 z"
-            android:strokeWidth="0.5"
+            android:strokeWidth="0.3"
             android:strokeColor="#F5592B"
             android:strokeLineCap="square" />
 
@@ -24,14 +24,14 @@
             <path
                 android:fillColor="#FFFFFF"
                 android:pathData="M 0,1.5 L 0.2,1.5 z"
-                android:strokeWidth="2"
+                android:strokeWidth="1"
                 android:strokeColor="#F5592B"
                 android:strokeLineJoin="round" />
 
             <path
                 android:fillColor="#FFFFFF"
                 android:pathData="M 0,1.5 L 0.2,1.5 z"
-                android:strokeWidth="1.5"
+                android:strokeWidth=".5"
                 android:strokeColor="#FF835A"
                 android:strokeLineCap="round"
                 android:strokeLineJoin="round" />

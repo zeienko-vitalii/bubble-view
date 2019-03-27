@@ -2,9 +2,9 @@
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:interpolator="@android:anim/anticipate_interpolator">
     <objectAnimator
-        android:duration="6000"
+        android:duration="2000"
         android:propertyName="pathData"
         android:valueFrom="M 1,1.5 H 0 z"
-        android:valueTo="M 1,1.5 H 280 z"
+        android:valueTo="M 1,1.5 H 100 z"
         android:valueType="pathType" />
 </set>
