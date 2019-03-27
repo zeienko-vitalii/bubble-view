@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TranslateX">
+        <item name="translate_x">0</item>
+    </style>
+
+    <style name="TranslateX2">
+        <item name="translate_x">20</item>
+    </style>
 </resources>

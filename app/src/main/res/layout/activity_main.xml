@@ -7,6 +7,25 @@
     tools:context=".MainActivity">
 
     <com.zeenko.customview.view.CircleImageView
-        android:layout_width="326dp"
-        android:layout_height="322dp" />
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+    <!--<ImageView-->
+    <!--android:layout_marginTop="120dp"-->
+    <!--android:layout_marginStart="150dp"-->
+    <!--android:id="@+id/ivStroke"-->
+    <!--android:layout_width="100dp"-->
+    <!--android:layout_height="40dp"-->
+    <!--android:rotation="0"-->
+    <!--app:srcCompat="@drawable/animated_stroke" />-->
+
+    <!--<ImageView-->
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="150dp"-->
+        <!--android:background="@drawable/img_3" />-->
+
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:elevation="6dp"/>-->
 </LinearLayout>
